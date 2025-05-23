@@ -12,14 +12,6 @@ A hybrid machine learning application that integrates real-time weather data fro
 - 🧠 **Machine Learning**: Built using Scikit-learn's Random Forest models.
 - 🖥 **Command-Line Interface**: Terminal-based weather input, analysis, and output.
 
-## 📁 Project Structure
-real-time-weather-forecasting/
-│
-├── weather.csv # Historical weather dataset
-├── weather_forecast.py # Main executable script
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
-
 ## ⚙️ Technologies Used
 
 - Python
