@@ -13,7 +13,12 @@ A hybrid machine learning application that integrates real-time weather data fro
 - 🖥 **Command-Line Interface**: Terminal-based weather input, analysis, and output.
 
 ## 📁 Project Structure
-
+real-time-weather-forecasting/
+│
+├── weather.csv # Historical weather dataset
+├── weather_forecast.py # Main executable script
+├── README.md # Project documentation
+└── requirements.txt # Python dependencies
 
 ## ⚙️ Technologies Used
 
@@ -25,12 +30,4 @@ A hybrid machine learning application that integrates real-time weather data fro
 - Label Encoding
 - Pytz for timezone handling
 
-## 🔧 Setup Instructions
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/real-time-weather-forecasting.git
-   cd real-time-weather-forecasting
-pip install -r requirements.txt
-API_KEY = 'your_api_key_here'
-python weather_forecast.py
